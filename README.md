@@ -1,1 +1,0 @@
-# r6_get_inventory
